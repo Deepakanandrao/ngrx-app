@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
@@ -25,3 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# ngrx-app
+Sample app created with ngrx, can be used as boilerplate
+
+Key concepts
+Actions describe unique events that are dispatched from components and services.
+State changes are handled by pure functions called reducers that take the current state and the latest action to compute a new state.
+Selectors are pure functions used to select, derive and compose pieces of state.
+State is accessed with the Store, an observable of state and an observer of actions.
+>>>>>>> 13099c608a283e0a89775992946ba82f8c9083e5
